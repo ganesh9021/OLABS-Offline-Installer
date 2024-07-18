@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.17161120.css",
+    "main.js": "./static/js/main.9764a6a2.js",
+    "static/js/787.2edf833f.chunk.js": "./static/js/787.2edf833f.chunk.js",
+    "static/media/bg.jpg": "./static/media/bg.a89044e8aa919fb4f9ea.jpg",
+    "static/media/8.png": "./static/media/8.ef75fda7efbe5cd09901.png",
+    "static/media/picture6.png": "./static/media/picture6.1603544a43958de0b09d.png",
+    "static/media/1.png": "./static/media/1.0575f2bc59623348a66a.png",
+    "static/media/picture9.png": "./static/media/picture9.e7e88e02dc7f902ba815.png",
+    "static/media/picture10.png": "./static/media/picture10.f5e380ad12252a68f291.png",
+    "static/media/picture8.png": "./static/media/picture8.2846cbdb1956709488dd.png",
+    "static/media/10.png": "./static/media/10.0e23c196f32d2f32683e.png",
+    "static/media/picture7.png": "./static/media/picture7.14bb4bfa530eea6a10d5.png",
+    "static/media/launcher_icon.png": "./static/media/launcher_icon.5140ef871be114da9adf.png",
+    "static/media/trophy.png": "./static/media/trophy.ef5e1bce34f5a4f4316c.png",
+    "static/media/6.png": "./static/media/6.5dc3aeb60ba06d014382.png",
+    "static/media/5.png": "./static/media/5.8bb8f445d82ed6d5299b.png",
+    "static/media/2.png": "./static/media/2.b137288de6646909777f.png",
+    "static/media/7.png": "./static/media/7.9a44635049dcdc724c4c.png",
+    "static/media/3.png": "./static/media/3.112ea558ea2e3aabf084.png",
+    "static/media/4.png": "./static/media/4.d73d1fdeb01dfb3f96aa.png",
+    "static/media/9.png": "./static/media/9.7accc717959ce8c7a1b1.png",
+    "static/media/fig1.png": "./static/media/fig1.59658669e6eaf8d46b63.png",
+    "static/media/letter-format.png": "./static/media/letter-format.229d4f39554b630dca07.png",
+    "static/media/correct-answer.mp3": "./static/media/correct-answer.e1cf8406691899855c2d.mp3",
+    "static/media/wrong-answer.mp3": "./static/media/wrong-answer.e08b616b298a5da45785.mp3",
+    "static/media/button-sound.mp3": "./static/media/button-sound.8277ab8cffed4aaa3b2e.mp3",
+    "static/media/tools.png": "./static/media/tools.641f8bff61807f279e10.png",
+    "index.html": "./index.html",
+    "main.17161120.css.map": "./static/css/main.17161120.css.map",
+    "main.9764a6a2.js.map": "./static/js/main.9764a6a2.js.map",
+    "787.2edf833f.chunk.js.map": "./static/js/787.2edf833f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17161120.css",
+    "static/js/main.9764a6a2.js"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.52ca2d95.css",
+    "main.js": "./static/js/main.506b3eaf.js",
+    "static/js/787.8fb4cbe5.chunk.js": "./static/js/787.8fb4cbe5.chunk.js",
+    "static/media/TypesofAdverb.png": "./static/media/TypesofAdverb.f38da7c1d59302d809d1.png",
+    "static/media/l3.png": "./static/media/l3.1c3cb2d6d4a046b8d741.png",
+    "static/media/l222.png": "./static/media/l222.e0d0092de9315ee57f81.png",
+    "static/media/l22.png": "./static/media/l22.224f64f14eb79593bf30.png",
+    "static/media/l111.png": "./static/media/l111.df0612f839f1973bbbf5.png",
+    "static/media/Level3.png": "./static/media/Level3.ff1ff3c2e51115a539d4.png",
+    "static/media/Level2.png": "./static/media/Level2.a5f9cae15eb456a342c0.png",
+    "static/media/l2222.png": "./static/media/l2222.5bd19934316c64ce57ad.png",
+    "static/media/Level1.png": "./static/media/Level1.36548ad3bb80503b9c74.png",
+    "static/media/l3333.png": "./static/media/l3333.31d97dd1f64f32533b3d.png",
+    "static/media/l333.png": "./static/media/l333.90911bbffec9a33f9cf5.png",
+    "index.html": "./index.html",
+    "main.52ca2d95.css.map": "./static/css/main.52ca2d95.css.map",
+    "main.506b3eaf.js.map": "./static/js/main.506b3eaf.js.map",
+    "787.8fb4cbe5.chunk.js.map": "./static/js/787.8fb4cbe5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ca2d95.css",
+    "static/js/main.506b3eaf.js"
+  ]
+}

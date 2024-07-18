@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.da7b43c0.css",
+    "main.js": "./static/js/main.74a7c970.js",
+    "static/media/materialdesignicons-webfont.eot": "./static/media/materialdesignicons-webfont.de316c4d7c4935189323.eot",
+    "static/media/materialdesignicons-webfont.ttf?v=6.9.96": "./static/media/materialdesignicons-webfont.ac55aef662342c261b21.ttf",
+    "static/media/hindi_bg.jpg": "./static/media/hindi_bg.d4c2c5ad60184dcfa2de.jpg",
+    "static/media/materialdesignicons-webfont.woff?v=6.9.96": "./static/media/materialdesignicons-webfont.059ea00c378aeafc39fc.woff",
+    "static/media/materialdesignicons-webfont.woff2?v=6.9.96": "./static/media/materialdesignicons-webfont.d5cba82059f88bfa469e.woff2",
+    "static/media/trophy.png": "./static/media/trophy.ef5e1bce34f5a4f4316c.png",
+    "static/media/theory.png": "./static/media/theory.bd9ae2c22f7cd2bfdd63.png",
+    "static/media/procedure_img7.png": "./static/media/procedure_img7.24afca56e5e0f65e5c73.png",
+    "static/media/procedure_img2.png": "./static/media/procedure_img2.5f071b6f7d527b44220b.png",
+    "static/media/procedure_img1.png": "./static/media/procedure_img1.a5e0ca90aad21ef960e7.png",
+    "static/media/correct-answer.mp3": "./static/media/correct-answer.e1cf8406691899855c2d.mp3",
+    "static/media/wrong-answer.mp3": "./static/media/wrong-answer.e08b616b298a5da45785.mp3",
+    "static/media/mcq.png": "./static/media/mcq.c75bc9d2eaff1a7bc0db.png",
+    "static/media/procedure_img3.png": "./static/media/procedure_img3.d22c72b0fbb2481fd0fb.png",
+    "static/media/help.png": "./static/media/help.cf8b88042238c2ca75dc.png",
+    "static/media/procedure_img5.png": "./static/media/procedure_img5.9906dc5ffb9ad6dfd527.png",
+    "static/media/button-sound.mp3": "./static/media/button-sound.8277ab8cffed4aaa3b2e.mp3",
+    "static/media/procedure_img9.png": "./static/media/procedure_img9.6842576771dfa3f10be3.png",
+    "static/media/tools.png": "./static/media/tools.641f8bff61807f279e10.png",
+    "static/media/chairs.png": "./static/media/chairs.87fb47b5d05842a5e83d.png",
+    "static/media/rope.png": "./static/media/rope.41d829530cf519ab1905.png",
+    "static/media/back.png": "./static/media/back.24f3b348b9d694daad23.png",
+    "static/media/next.png": "./static/media/next.118cb02c29fe66101727.png",
+    "static/media/procedure_img4.png": "./static/media/procedure_img4.7d1f23aa529d0d67ac7f.png",
+    "index.html": "./index.html",
+    "main.da7b43c0.css.map": "./static/css/main.da7b43c0.css.map",
+    "main.74a7c970.js.map": "./static/js/main.74a7c970.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da7b43c0.css",
+    "static/js/main.74a7c970.js"
+  ]
+}

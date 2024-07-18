@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1a6b4a8c.css",
+    "main.js": "./static/js/main.8882c9cb.js",
+    "static/js/787.9fb42b2e.chunk.js": "./static/js/787.9fb42b2e.chunk.js",
+    "static/media/updatedNounVideo.mp4": "./static/media/updatedNounVideo.d04eda9c48f790774a40.mp4",
+    "static/media/Typesofnoun.png": "./static/media/Typesofnoun.b2768651e6a010f1ba92.png",
+    "static/media/noun.png": "./static/media/noun.ce9f3454f12fad3e4b40.png",
+    "static/media/Level2.png": "./static/media/Level2.a5f9cae15eb456a342c0.png",
+    "static/media/levelcompleted.png": "./static/media/levelcompleted.8913a8f21bb718c44c2a.png",
+    "static/media/Level1.png": "./static/media/Level1.36548ad3bb80503b9c74.png",
+    "static/media/incorrectfb.png": "./static/media/incorrectfb.6a253c1f768df3aac314.png",
+    "static/media/correctnountypeelected.png": "./static/media/correctnountypeelected.67a9d3287427a83103f8.png",
+    "index.html": "./index.html",
+    "main.1a6b4a8c.css.map": "./static/css/main.1a6b4a8c.css.map",
+    "main.8882c9cb.js.map": "./static/js/main.8882c9cb.js.map",
+    "787.9fb42b2e.chunk.js.map": "./static/js/787.9fb42b2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a6b4a8c.css",
+    "static/js/main.8882c9cb.js"
+  ]
+}

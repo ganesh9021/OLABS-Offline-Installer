@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.be3368d3.css",
+    "main.js": "./static/js/main.c0bb5e7d.js",
+    "static/js/787.8fb4cbe5.chunk.js": "./static/js/787.8fb4cbe5.chunk.js",
+    "static/media/typesofadjective.png": "./static/media/typesofadjective.f575cd498ffda16590d3.png",
+    "static/media/level1completed.png": "./static/media/level1completed.54fb2277c2fab96126b8.png",
+    "static/media/Level3.png": "./static/media/Level3.ff1ff3c2e51115a539d4.png",
+    "static/media/Level2.png": "./static/media/Level2.a5f9cae15eb456a342c0.png",
+    "static/media/l2completed.png": "./static/media/l2completed.85a9bded6dca0cd787b1.png",
+    "static/media/Level1.png": "./static/media/Level1.36548ad3bb80503b9c74.png",
+    "static/media/l3completed.png": "./static/media/l3completed.9f4031bbbaeb642cf23e.png",
+    "static/media/l3incorrectfb.png": "./static/media/l3incorrectfb.2b41b40406b705d1ffac.png",
+    "index.html": "./index.html",
+    "main.be3368d3.css.map": "./static/css/main.be3368d3.css.map",
+    "main.c0bb5e7d.js.map": "./static/js/main.c0bb5e7d.js.map",
+    "787.8fb4cbe5.chunk.js.map": "./static/js/787.8fb4cbe5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be3368d3.css",
+    "static/js/main.c0bb5e7d.js"
+  ]
+}

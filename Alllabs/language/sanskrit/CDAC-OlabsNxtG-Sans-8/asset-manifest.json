@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f88e42c5.css",
+    "main.js": "./static/js/main.06eb3142.js",
+    "static/js/787.ed310a66.chunk.js": "./static/js/787.ed310a66.chunk.js",
+    "static/media/bg.jpg": "./static/media/bg.a89044e8aa919fb4f9ea.jpg",
+    "static/media/launcher_icon.png": "./static/media/launcher_icon.68c7596cac9101de8166.png",
+    "static/media/trophy.png": "./static/media/trophy.ef5e1bce34f5a4f4316c.png",
+    "static/media/play.png": "./static/media/play.60003fcd5ba61b581006.png",
+    "static/media/correct-answer.mp3": "./static/media/correct-answer.e1cf8406691899855c2d.mp3",
+    "static/media/wrong-answer.mp3": "./static/media/wrong-answer.e08b616b298a5da45785.mp3",
+    "static/media/button-sound.mp3": "./static/media/button-sound.8277ab8cffed4aaa3b2e.mp3",
+    "static/media/tools.png": "./static/media/tools.641f8bff61807f279e10.png",
+    "index.html": "./index.html",
+    "main.f88e42c5.css.map": "./static/css/main.f88e42c5.css.map",
+    "main.06eb3142.js.map": "./static/js/main.06eb3142.js.map",
+    "787.ed310a66.chunk.js.map": "./static/js/787.ed310a66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f88e42c5.css",
+    "static/js/main.06eb3142.js"
+  ]
+}
