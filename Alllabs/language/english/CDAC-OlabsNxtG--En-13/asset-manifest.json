@@ -1,8 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.be3368d3.css",
-    "main.js": "./static/js/main.c0bb5e7d.js",
-    "static/js/787.8fb4cbe5.chunk.js": "./static/js/787.8fb4cbe5.chunk.js",
+    "main.css": "./static/css/main.52d0bdc1.css",
+    "main.js": "./static/js/main.ac928593.js",
+    "reactPlayerYouTube.js": "./static/js/reactPlayerYouTube.856a2d80.chunk.js",
+    "reactPlayerSoundCloud.js": "./static/js/reactPlayerSoundCloud.09a5d38b.chunk.js",
+    "reactPlayerVimeo.js": "./static/js/reactPlayerVimeo.068f782d.chunk.js",
+    "reactPlayerMux.js": "./static/js/reactPlayerMux.4e90cfa6.chunk.js",
+    "reactPlayerFacebook.js": "./static/js/reactPlayerFacebook.27d13397.chunk.js",
+    "reactPlayerStreamable.js": "./static/js/reactPlayerStreamable.6985beba.chunk.js",
+    "reactPlayerWistia.js": "./static/js/reactPlayerWistia.0d28250c.chunk.js",
+    "reactPlayerTwitch.js": "./static/js/reactPlayerTwitch.d12e25be.chunk.js",
+    "reactPlayerDailyMotion.js": "./static/js/reactPlayerDailyMotion.d13cef22.chunk.js",
+    "reactPlayerMixcloud.js": "./static/js/reactPlayerMixcloud.f5677d6c.chunk.js",
+    "reactPlayerVidyard.js": "./static/js/reactPlayerVidyard.d8aa7175.chunk.js",
+    "reactPlayerKaltura.js": "./static/js/reactPlayerKaltura.352a1242.chunk.js",
+    "reactPlayerFilePlayer.js": "./static/js/reactPlayerFilePlayer.8f1c656a.chunk.js",
+    "reactPlayerPreview.js": "./static/js/reactPlayerPreview.87bc7721.chunk.js",
+    "static/js/787.85cd5ab8.chunk.js": "./static/js/787.85cd5ab8.chunk.js",
+    "static/media/Adjective.webm": "./static/media/Adjective.209f6ff7c7cd4620e169.webm",
     "static/media/typesofadjective.png": "./static/media/typesofadjective.f575cd498ffda16590d3.png",
     "static/media/level1completed.png": "./static/media/level1completed.54fb2277c2fab96126b8.png",
     "static/media/Level3.png": "./static/media/Level3.ff1ff3c2e51115a539d4.png",
@@ -12,12 +27,26 @@
     "static/media/l3completed.png": "./static/media/l3completed.9f4031bbbaeb642cf23e.png",
     "static/media/l3incorrectfb.png": "./static/media/l3incorrectfb.2b41b40406b705d1ffac.png",
     "index.html": "./index.html",
-    "main.be3368d3.css.map": "./static/css/main.be3368d3.css.map",
-    "main.c0bb5e7d.js.map": "./static/js/main.c0bb5e7d.js.map",
-    "787.8fb4cbe5.chunk.js.map": "./static/js/787.8fb4cbe5.chunk.js.map"
+    "main.52d0bdc1.css.map": "./static/css/main.52d0bdc1.css.map",
+    "main.ac928593.js.map": "./static/js/main.ac928593.js.map",
+    "reactPlayerYouTube.856a2d80.chunk.js.map": "./static/js/reactPlayerYouTube.856a2d80.chunk.js.map",
+    "reactPlayerSoundCloud.09a5d38b.chunk.js.map": "./static/js/reactPlayerSoundCloud.09a5d38b.chunk.js.map",
+    "reactPlayerVimeo.068f782d.chunk.js.map": "./static/js/reactPlayerVimeo.068f782d.chunk.js.map",
+    "reactPlayerMux.4e90cfa6.chunk.js.map": "./static/js/reactPlayerMux.4e90cfa6.chunk.js.map",
+    "reactPlayerFacebook.27d13397.chunk.js.map": "./static/js/reactPlayerFacebook.27d13397.chunk.js.map",
+    "reactPlayerStreamable.6985beba.chunk.js.map": "./static/js/reactPlayerStreamable.6985beba.chunk.js.map",
+    "reactPlayerWistia.0d28250c.chunk.js.map": "./static/js/reactPlayerWistia.0d28250c.chunk.js.map",
+    "reactPlayerTwitch.d12e25be.chunk.js.map": "./static/js/reactPlayerTwitch.d12e25be.chunk.js.map",
+    "reactPlayerDailyMotion.d13cef22.chunk.js.map": "./static/js/reactPlayerDailyMotion.d13cef22.chunk.js.map",
+    "reactPlayerMixcloud.f5677d6c.chunk.js.map": "./static/js/reactPlayerMixcloud.f5677d6c.chunk.js.map",
+    "reactPlayerVidyard.d8aa7175.chunk.js.map": "./static/js/reactPlayerVidyard.d8aa7175.chunk.js.map",
+    "reactPlayerKaltura.352a1242.chunk.js.map": "./static/js/reactPlayerKaltura.352a1242.chunk.js.map",
+    "reactPlayerFilePlayer.8f1c656a.chunk.js.map": "./static/js/reactPlayerFilePlayer.8f1c656a.chunk.js.map",
+    "reactPlayerPreview.87bc7721.chunk.js.map": "./static/js/reactPlayerPreview.87bc7721.chunk.js.map",
+    "787.85cd5ab8.chunk.js.map": "./static/js/787.85cd5ab8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be3368d3.css",
-    "static/js/main.c0bb5e7d.js"
+    "static/css/main.52d0bdc1.css",
+    "static/js/main.ac928593.js"
   ]
 }
