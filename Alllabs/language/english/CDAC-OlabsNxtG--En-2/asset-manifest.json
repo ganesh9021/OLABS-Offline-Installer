@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.77380240.css",
-    "main.js": "./static/js/main.b5f10abc.js",
+    "main.js": "./static/js/main.7fae5209.js",
     "reactPlayerYouTube.js": "./static/js/reactPlayerYouTube.62e7832c.chunk.js",
     "reactPlayerSoundCloud.js": "./static/js/reactPlayerSoundCloud.f4157ebf.chunk.js",
     "reactPlayerVimeo.js": "./static/js/reactPlayerVimeo.57a2cb68.chunk.js",
@@ -17,7 +17,7 @@
     "reactPlayerFilePlayer.js": "./static/js/reactPlayerFilePlayer.3644266e.chunk.js",
     "reactPlayerPreview.js": "./static/js/reactPlayerPreview.d00a87e6.chunk.js",
     "static/js/787.c6b6a0fe.chunk.js": "./static/js/787.c6b6a0fe.chunk.js",
-    "static/media/vocabulary.webm": "./static/media/vocabulary.5a8c2e3b24af8e7f8e1c.webm",
+    "static/media/vocabulary.webm": "./static/media/vocabulary.4c21e7ebb23605a91181.webm",
     "static/media/LatestGrid.gif": "./static/media/LatestGrid.bfe48e91f93fba84b41b.gif",
     "static/media/worm.png": "./static/media/worm.0b483915fa1dd74b9faa.png",
     "static/media/hammer.png": "./static/media/hammer.8bc74e87f8cee0ba5828.png",
@@ -26,7 +26,7 @@
     "static/media/2.png": "./static/media/2.7d1a1d358939ab6ae6a4.png",
     "index.html": "./index.html",
     "main.77380240.css.map": "./static/css/main.77380240.css.map",
-    "main.b5f10abc.js.map": "./static/js/main.b5f10abc.js.map",
+    "main.7fae5209.js.map": "./static/js/main.7fae5209.js.map",
     "reactPlayerYouTube.62e7832c.chunk.js.map": "./static/js/reactPlayerYouTube.62e7832c.chunk.js.map",
     "reactPlayerSoundCloud.f4157ebf.chunk.js.map": "./static/js/reactPlayerSoundCloud.f4157ebf.chunk.js.map",
     "reactPlayerVimeo.57a2cb68.chunk.js.map": "./static/js/reactPlayerVimeo.57a2cb68.chunk.js.map",
@@ -45,6 +45,6 @@
   },
   "entrypoints": [
     "static/css/main.77380240.css",
-    "static/js/main.b5f10abc.js"
+    "static/js/main.7fae5209.js"
   ]
 }

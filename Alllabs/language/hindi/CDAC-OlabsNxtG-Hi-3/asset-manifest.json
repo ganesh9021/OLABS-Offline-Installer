@@ -1,27 +1,25 @@
 {
   "files": {
     "main.css": "./static/css/main.c4bfc64c.css",
-    "main.js": "./static/js/main.5c249d93.js",
-    "static/media/video.mp4": "./static/media/video.60e97a98996d449fca15.mp4",
+    "main.js": "./static/js/main.6727d3bb.js",
+    "static/media/Sangya.webm": "./static/media/Sangya.709697df41e26cf4db51.webm",
     "static/media/sagya.mp4": "./static/media/sagya.ed292e4f6a1149ede969.mp4",
     "static/media/hindi_bg.jpg": "./static/media/hindi_bg.d4c2c5ad60184dcfa2de.jpg",
     "static/media/clap.gif": "./static/media/clap.5fa0a1b2909ccfc8e2b9.gif",
-    "static/media/sangypro.png": "./static/media/sangypro.a08b64fedf830932debf.png",
-    "static/media/proce_6.png": "./static/media/proce_6.2e2aac9e7d17a34034b2.png",
-    "static/media/proce_2.png": "./static/media/proce_2.5a612ca5611573f2bae2.png",
-    "static/media/proce_4.png": "./static/media/proce_4.d4f6cc5df1ef4e42aaf8.png",
+    "static/media/proce1.png": "./static/media/proce1.d0d965bae40a2ea1afbd.png",
+    "static/media/proce3.png": "./static/media/proce3.5366c300471873accdc7.png",
     "static/media/proce_3.png": "./static/media/proce_3.94d2da90671ede33c8b6.png",
+    "static/media/proce5.png": "./static/media/proce5.11326e071d929bb9aba5.png",
     "static/media/btj.png": "./static/media/btj.b26f22c81193c7f4ba87.png",
-    "static/media/back.png": "./static/media/back.24f3b348b9d694daad23.png",
     "static/media/sher.PNG": "./static/media/sher.209458c38ac65855d90e.PNG",
     "static/media/virat.PNG": "./static/media/virat.eb88fe995b7d94ec32d5.PNG",
     "static/media/himalaya.PNG": "./static/media/himalaya.55cdd1e128cd71413bb8.PNG",
     "index.html": "./index.html",
     "main.c4bfc64c.css.map": "./static/css/main.c4bfc64c.css.map",
-    "main.5c249d93.js.map": "./static/js/main.5c249d93.js.map"
+    "main.6727d3bb.js.map": "./static/js/main.6727d3bb.js.map"
   },
   "entrypoints": [
     "static/css/main.c4bfc64c.css",
-    "static/js/main.5c249d93.js"
+    "static/js/main.6727d3bb.js"
   ]
 }

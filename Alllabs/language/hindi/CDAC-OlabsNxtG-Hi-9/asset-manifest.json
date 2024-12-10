@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "./static/css/main.96b40473.css",
-    "main.js": "./static/js/main.b2d59aa4.js",
-    "static/media/video.mp4": "./static/media/video.60e97a98996d449fca15.mp4",
+    "main.css": "./static/css/main.3b681390.css",
+    "main.js": "./static/js/main.8edcca6c.js",
     "static/media/kriya.gif": "./static/media/kriya.2e20db022d5d48a162b3.gif",
+    "static/media/Kriya.webm": "./static/media/Kriya.5bfca148c310d66b1c6a.webm",
     "static/media/hindi_bg.jpg": "./static/media/hindi_bg.d4c2c5ad60184dcfa2de.jpg",
     "static/media/letterimg.jpg": "./static/media/letterimg.6dfa54b01644bb45de3b.jpg",
     "static/media/domain.png": "./static/media/domain.e1ee60daa3e16c97eb14.png",
@@ -20,21 +20,22 @@
     "static/media/radhadance.png": "./static/media/radhadance.bd62deda162d1e026360.png",
     "static/media/parrot.png": "./static/media/parrot.196b81a1371b02190204.png",
     "static/media/sleeping.png": "./static/media/sleeping.2af0d389f41cfdb456bd.png",
+    "static/media/proce_10.png": "./static/media/proce_10.f4a77d88a48181794c70.png",
     "static/media/school.png": "./static/media/school.5c72cc554e66852a14fc.png",
     "static/media/proce_3.1.png": "./static/media/proce_3.1.25d291142114458fff0e.png",
-    "static/media/proce_12.png": "./static/media/proce_12.970b644cb39d7c6cc935.png",
     "static/media/kriyaproce5.png": "./static/media/kriyaproce5.e8a2d7151c2d3da93444.png",
     "static/media/proce_4.png": "./static/media/proce_4.d43d8a3900a533ab9b20.png",
+    "static/media/proc13.png": "./static/media/proc13.a4da21c30685d2d7a5ec.png",
     "static/media/proce_2.png": "./static/media/proce_2.2e6e8e57546632211f4e.png",
     "static/media/back.png": "./static/media/back.24f3b348b9d694daad23.png",
     "static/media/next.png": "./static/media/next.118cb02c29fe66101727.png",
     "static/media/proce_6.png": "./static/media/proce_6.128c8f2d23102f92d191.png",
     "index.html": "./index.html",
-    "main.96b40473.css.map": "./static/css/main.96b40473.css.map",
-    "main.b2d59aa4.js.map": "./static/js/main.b2d59aa4.js.map"
+    "main.3b681390.css.map": "./static/css/main.3b681390.css.map",
+    "main.8edcca6c.js.map": "./static/js/main.8edcca6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.96b40473.css",
-    "static/js/main.b2d59aa4.js"
+    "static/css/main.3b681390.css",
+    "static/js/main.8edcca6c.js"
   ]
 }

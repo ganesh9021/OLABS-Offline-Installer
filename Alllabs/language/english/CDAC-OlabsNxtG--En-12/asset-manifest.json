@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.278df29c.css",
-    "main.js": "./static/js/main.036c2fcf.js",
+    "main.js": "./static/js/main.f4123c7d.js",
     "reactPlayerYouTube.js": "./static/js/reactPlayerYouTube.73a0abc8.chunk.js",
     "reactPlayerSoundCloud.js": "./static/js/reactPlayerSoundCloud.34da9395.chunk.js",
     "reactPlayerVimeo.js": "./static/js/reactPlayerVimeo.1c35e2b4.chunk.js",
@@ -17,7 +17,7 @@
     "reactPlayerFilePlayer.js": "./static/js/reactPlayerFilePlayer.cdb65247.chunk.js",
     "reactPlayerPreview.js": "./static/js/reactPlayerPreview.e850fe00.chunk.js",
     "static/js/787.fca0dbbc.chunk.js": "./static/js/787.fca0dbbc.chunk.js",
-    "static/media/prefixSuffix .webm": "./static/media/prefixSuffix .5ab5df3121562c5cdd53.webm",
+    "static/media/prefix-suffix.webm": "./static/media/prefix-suffix.d131cedbef972b63a614.webm",
     "static/media/wronganswer.wav": "./static/media/wronganswer.cb3e1cf9d9c054ca9843.wav",
     "static/media/gameover.wav": "./static/media/gameover.97b8c97eae6e2e613033.wav",
     "static/media/correctanswer.wav": "./static/media/correctanswer.c35664ce292f295a155c.wav",
@@ -36,7 +36,7 @@
     "static/media/prefixsuffix.png": "./static/media/prefixsuffix.7a4b05e3bf198858ab83.png",
     "index.html": "./index.html",
     "main.278df29c.css.map": "./static/css/main.278df29c.css.map",
-    "main.036c2fcf.js.map": "./static/js/main.036c2fcf.js.map",
+    "main.f4123c7d.js.map": "./static/js/main.f4123c7d.js.map",
     "reactPlayerYouTube.73a0abc8.chunk.js.map": "./static/js/reactPlayerYouTube.73a0abc8.chunk.js.map",
     "reactPlayerSoundCloud.34da9395.chunk.js.map": "./static/js/reactPlayerSoundCloud.34da9395.chunk.js.map",
     "reactPlayerVimeo.1c35e2b4.chunk.js.map": "./static/js/reactPlayerVimeo.1c35e2b4.chunk.js.map",
@@ -55,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.278df29c.css",
-    "static/js/main.036c2fcf.js"
+    "static/js/main.f4123c7d.js"
   ]
 }

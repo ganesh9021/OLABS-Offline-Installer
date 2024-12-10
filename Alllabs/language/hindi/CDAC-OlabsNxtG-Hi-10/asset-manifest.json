@@ -1,34 +1,29 @@
 {
   "files": {
-    "main.css": "./static/css/main.c5328721.css",
-    "main.js": "./static/js/main.e1630e67.js",
+    "main.css": "./static/css/main.f0b43835.css",
+    "main.js": "./static/js/main.957934fc.js",
     "static/media/samas.gif": "./static/media/samas.5dbb5cecfe699811baed.gif",
-    "static/media/video.mp4": "./static/media/video.60e97a98996d449fca15.mp4",
+    "static/media/samas.webm": "./static/media/samas.02625db7830e8754029d.webm",
     "static/media/samasmob.gif": "./static/media/samasmob.d28afc1c0e3619db3e0e.gif",
     "static/media/hindi_bg.jpg": "./static/media/hindi_bg.d4c2c5ad60184dcfa2de.jpg",
-    "static/media/letterimg.jpg": "./static/media/letterimg.6dfa54b01644bb45de3b.jpg",
-    "static/media/domain.png": "./static/media/domain.e1ee60daa3e16c97eb14.png",
     "static/media/proce1_8.png": "./static/media/proce1_8.28c70bbc56d1490bccb4.png",
     "static/media/proce1_7.png": "./static/media/proce1_7.d19568a082212bb8bc51.png",
     "static/media/samaspro1.png": "./static/media/samaspro1.7e479db677c9d5b26c3a.png",
     "static/media/pro2.png": "./static/media/pro2.63779805132dfa05ffd0.png",
+    "static/media/proce2_10.png": "./static/media/proce2_10.639cc2f260896e763c42.png",
     "static/media/Sarvnaamtypes.png": "./static/media/Sarvnaamtypes.03ea8df113b34a972f23.png",
-    "static/media/proce1_9.png": "./static/media/proce1_9.2f53c058bc29313cb4d6.png",
+    "static/media/proce1_4.png": "./static/media/proce1_4.7342de7b4b44a6b87ac2.png",
     "static/media/proce1_10.png": "./static/media/proce1_10.43ce1d3122fb9e2242df.png",
     "static/media/pro_btn.png": "./static/media/pro_btn.7eaf519c42b5d3d347d4.png",
-    "static/media/proce1_4.png": "./static/media/proce1_4.a101cd7e5e607d1d1e91.png",
     "static/media/proce1_3.png": "./static/media/proce1_3.b03f8f3a68ad23a981f9.png",
     "static/media/bhed.png": "./static/media/bhed.5614e25ce8527729ff1d.png",
-    "static/media/back.png": "./static/media/back.24f3b348b9d694daad23.png",
-    "static/media/next.png": "./static/media/next.118cb02c29fe66101727.png",
-    "static/media/proce_11.png": "./static/media/proce_11.68d58fe19032da50709e.png",
     "static/media/proce_6.png": "./static/media/proce_6.128c8f2d23102f92d191.png",
     "index.html": "./index.html",
-    "main.c5328721.css.map": "./static/css/main.c5328721.css.map",
-    "main.e1630e67.js.map": "./static/js/main.e1630e67.js.map"
+    "main.f0b43835.css.map": "./static/css/main.f0b43835.css.map",
+    "main.957934fc.js.map": "./static/js/main.957934fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5328721.css",
-    "static/js/main.e1630e67.js"
+    "static/css/main.f0b43835.css",
+    "static/js/main.957934fc.js"
   ]
 }

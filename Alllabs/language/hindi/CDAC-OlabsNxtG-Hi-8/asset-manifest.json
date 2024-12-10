@@ -1,32 +1,32 @@
 {
   "files": {
     "main.css": "./static/css/main.1f52084e.css",
-    "main.js": "./static/js/main.bb9da042.js",
-    "static/media/video.mp4": "./static/media/video.60e97a98996d449fca15.mp4",
+    "main.js": "./static/js/main.727f7aca.js",
+    "static/media/Sarvnam.webm": "./static/media/Sarvnam.03c146991b6674d4d67d.webm",
     "static/media/paribhasa.gif": "./static/media/paribhasa.b9512ec979b362356407.gif",
     "static/media/hindi_bg.jpg": "./static/media/hindi_bg.d4c2c5ad60184dcfa2de.jpg",
-    "static/media/sarvnaamnew.mp4": "./static/media/sarvnaamnew.e51df5e5e789b2130c71.mp4",
+    "static/media/sarvnaamnew.mp4": "./static/media/sarvnaamnew.2a2ce422e22b3d32e179.mp4",
     "static/media/letterimg.jpg": "./static/media/letterimg.6dfa54b01644bb45de3b.jpg",
     "static/media/domain.png": "./static/media/domain.e1ee60daa3e16c97eb14.png",
     "static/media/proc1.png": "./static/media/proc1.a6562a7d993dfd0aab03.png",
-    "static/media/proce13.png": "./static/media/proce13.eda109e8f645ced4a13c.png",
+    "static/media/proce13.png": "./static/media/proce13.35cb59060ad324a1a660.png",
     "static/media/proce12.png": "./static/media/proce12.7e7c137f326d9e154e3b.png",
     "static/media/proce11.png": "./static/media/proce11.5dc4586552ab91a7eebd.png",
     "static/media/Sarvnaamtypes.png": "./static/media/Sarvnaamtypes.03ea8df113b34a972f23.png",
-    "static/media/proce6.png": "./static/media/proce6.d666b9dd5dd504de1baf.png",
+    "static/media/proce14.png": "./static/media/proce14.3192edc4ce513c8e9a11.png",
     "static/media/proce8.png": "./static/media/proce8.1a5338d6fdb0eeec0fe1.png",
-    "static/media/proce14.png": "./static/media/proce14.ec616631811db24b0bb6.png",
     "static/media/proce4.png": "./static/media/proce4.6324e412a9d2533cf8b8.png",
     "static/media/proce5.png": "./static/media/proce5.2780a416da112a36cac5.png",
+    "static/media/proce6.png": "./static/media/proce6.5a064a9da239a8fe949f.png",
     "static/media/proce7.png": "./static/media/proce7.898b3da4a702d8299885.png",
     "static/media/back.png": "./static/media/back.24f3b348b9d694daad23.png",
     "static/media/next.png": "./static/media/next.118cb02c29fe66101727.png",
     "index.html": "./index.html",
     "main.1f52084e.css.map": "./static/css/main.1f52084e.css.map",
-    "main.bb9da042.js.map": "./static/js/main.bb9da042.js.map"
+    "main.727f7aca.js.map": "./static/js/main.727f7aca.js.map"
   },
   "entrypoints": [
     "static/css/main.1f52084e.css",
-    "static/js/main.bb9da042.js"
+    "static/js/main.727f7aca.js"
   ]
 }

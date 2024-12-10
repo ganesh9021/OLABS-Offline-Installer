@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.1e26f517.css",
-    "main.js": "./static/js/main.5e9dac85.js",
+    "main.js": "./static/js/main.d6d18d45.js",
     "reactPlayerYouTube.js": "./static/js/reactPlayerYouTube.7520c56b.chunk.js",
     "reactPlayerSoundCloud.js": "./static/js/reactPlayerSoundCloud.6f81734d.chunk.js",
     "reactPlayerVimeo.js": "./static/js/reactPlayerVimeo.bc4bab89.chunk.js",
@@ -17,14 +17,14 @@
     "reactPlayerFilePlayer.js": "./static/js/reactPlayerFilePlayer.af4fe359.chunk.js",
     "reactPlayerPreview.js": "./static/js/reactPlayerPreview.cecd2741.chunk.js",
     "static/js/787.90503420.chunk.js": "./static/js/787.90503420.chunk.js",
-    "static/media/video.mp4": "./static/media/video.60e97a98996d449fca15.mp4",
     "static/media/identify_confused_word.mp4": "./static/media/identify_confused_word.2b2320172bd6c77e4acc.mp4",
+    "static/media/identifyconfusedwords.webm": "./static/media/identifyconfusedwords.5e92d003a98c95a3def7.webm",
     "static/media/procedure_img3.png": "./static/media/procedure_img3.74125859eef7a706845e.png",
     "static/media/procedure_img2.png": "./static/media/procedure_img2.3f5d558be850bad9fbe4.png",
     "static/media/procedure_img1.png": "./static/media/procedure_img1.0801c4910f06f31e4488.png",
     "index.html": "./index.html",
     "main.1e26f517.css.map": "./static/css/main.1e26f517.css.map",
-    "main.5e9dac85.js.map": "./static/js/main.5e9dac85.js.map",
+    "main.d6d18d45.js.map": "./static/js/main.d6d18d45.js.map",
     "reactPlayerYouTube.7520c56b.chunk.js.map": "./static/js/reactPlayerYouTube.7520c56b.chunk.js.map",
     "reactPlayerSoundCloud.6f81734d.chunk.js.map": "./static/js/reactPlayerSoundCloud.6f81734d.chunk.js.map",
     "reactPlayerVimeo.bc4bab89.chunk.js.map": "./static/js/reactPlayerVimeo.bc4bab89.chunk.js.map",
@@ -43,6 +43,6 @@
   },
   "entrypoints": [
     "static/css/main.1e26f517.css",
-    "static/js/main.5e9dac85.js"
+    "static/js/main.d6d18d45.js"
   ]
 }
