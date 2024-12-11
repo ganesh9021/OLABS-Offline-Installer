@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.349e0645.css",
+    "main.js": "./static/js/main.a7c1f7ff.js",
+    "static/media/hindi_bg.jpg": "./static/media/hindi_bg.d4c2c5ad60184dcfa2de.jpg",
+    "static/media/back.png": "./static/media/back.24f3b348b9d694daad23.png",
+    "static/media/next.png": "./static/media/next.118cb02c29fe66101727.png",
+    "index.html": "./index.html",
+    "main.349e0645.css.map": "./static/css/main.349e0645.css.map",
+    "main.a7c1f7ff.js.map": "./static/js/main.a7c1f7ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.349e0645.css",
+    "static/js/main.a7c1f7ff.js"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ffd3d2b2.css",
+    "main.js": "./static/js/main.deda0f4f.js",
+    "static/media/song.mp3": "./static/media/song.b33b2c9020a34b12dc18.mp3",
+    "static/media/bg_4.jpg": "./static/media/bg_4.3653214e464f3e807f4a.jpg",
+    "static/media/hindi_bg.jpg": "./static/media/hindi_bg.d4c2c5ad60184dcfa2de.jpg",
+    "static/media/wrong.wav": "./static/media/wrong.1f874d824ffe42c0e335.wav",
+    "static/media/trophy.png": "./static/media/trophy.ef5e1bce34f5a4f4316c.png",
+    "static/media/blast1.gif": "./static/media/blast1.707a67cff4a2c11785e9.gif",
+    "static/media/correct-answer.mp3": "./static/media/correct-answer.e1cf8406691899855c2d.mp3",
+    "static/media/readInstruction.png": "./static/media/readInstruction.e94981cefc3e4041886c.png",
+    "index.html": "./index.html",
+    "main.ffd3d2b2.css.map": "./static/css/main.ffd3d2b2.css.map",
+    "main.deda0f4f.js.map": "./static/js/main.deda0f4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffd3d2b2.css",
+    "static/js/main.deda0f4f.js"
+  ]
+}

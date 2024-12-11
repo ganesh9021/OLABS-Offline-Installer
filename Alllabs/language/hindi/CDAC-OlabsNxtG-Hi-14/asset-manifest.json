@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9bb54595.css",
+    "main.js": "./static/js/main.363af28d.js",
+    "static/media/hindi_bg.jpg": "./static/media/hindi_bg.d4c2c5ad60184dcfa2de.jpg",
+    "static/media/wronganswer.wav": "./static/media/wronganswer.cb3e1cf9d9c054ca9843.wav",
+    "static/media/gameover.wav": "./static/media/gameover.97b8c97eae6e2e613033.wav",
+    "static/media/correctanswer.wav": "./static/media/correctanswer.c35664ce292f295a155c.wav",
+    "static/media/coin.png": "./static/media/coin.992eb6867f996e52e51a.png",
+    "static/media/PreffixSuffix.png": "./static/media/PreffixSuffix.42d3b1f862823cbefa75.png",
+    "static/media/Suffix.png": "./static/media/Suffix.b951068536dae6f6be48.png",
+    "static/media/Prefix.png": "./static/media/Prefix.a9a8df17d8ef5f2b9541.png",
+    "static/media/BallonWord.png": "./static/media/BallonWord.929e5ebb390401c08562.png",
+    "static/media/WrongFBImage.png": "./static/media/WrongFBImage.71c3ba84a9035eefc165.png",
+    "static/media/RightFBImage.png": "./static/media/RightFBImage.2d6678210d00647a233a.png",
+    "static/media/back.png": "./static/media/back.24f3b348b9d694daad23.png",
+    "static/media/next.png": "./static/media/next.118cb02c29fe66101727.png",
+    "index.html": "./index.html",
+    "main.9bb54595.css.map": "./static/css/main.9bb54595.css.map",
+    "main.363af28d.js.map": "./static/js/main.363af28d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bb54595.css",
+    "static/js/main.363af28d.js"
+  ]
+}
