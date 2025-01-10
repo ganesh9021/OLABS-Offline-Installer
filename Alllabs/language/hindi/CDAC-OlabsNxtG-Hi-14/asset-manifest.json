@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.9bb54595.css",
-    "main.js": "./static/js/main.363af28d.js",
+    "main.js": "./static/js/main.dfbc2281.js",
     "static/media/hindi_bg.jpg": "./static/media/hindi_bg.d4c2c5ad60184dcfa2de.jpg",
     "static/media/wronganswer.wav": "./static/media/wronganswer.cb3e1cf9d9c054ca9843.wav",
     "static/media/gameover.wav": "./static/media/gameover.97b8c97eae6e2e613033.wav",
@@ -17,10 +17,10 @@
     "static/media/next.png": "./static/media/next.118cb02c29fe66101727.png",
     "index.html": "./index.html",
     "main.9bb54595.css.map": "./static/css/main.9bb54595.css.map",
-    "main.363af28d.js.map": "./static/js/main.363af28d.js.map"
+    "main.dfbc2281.js.map": "./static/js/main.dfbc2281.js.map"
   },
   "entrypoints": [
     "static/css/main.9bb54595.css",
-    "static/js/main.363af28d.js"
+    "static/js/main.dfbc2281.js"
   ]
 }
