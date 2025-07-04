@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./static/css/main.abd8fe01.css",
+    "main.js": "./static/js/main.267c89d6.js",
+    "static/media/samas.webm": "./static/media/samas.02625db7830e8754029d.webm",
+    "static/media/hindi_bg.jpg": "./static/media/hindi_bg.d4c2c5ad60184dcfa2de.jpg",
+    "static/media/trophy.png": "./static/media/trophy.ef5e1bce34f5a4f4316c.png",
+    "static/media/P2.png": "./static/media/P2.c5cb6009ef4bbf76bacf.png",
+    "static/media/train.png": "./static/media/train.a1b52fb4d14f39dc8ff7.png",
+    "static/media/P1.png": "./static/media/P1.c766ab4644dfa19ff2eb.png",
+    "static/media/balloon.png": "./static/media/balloon.354c428dc6517b585cfd.png",
+    "static/media/girls.png": "./static/media/girls.17b03be2b2431846eac6.png",
+    "static/media/cow.png": "./static/media/cow.23d4f311c7c4a8d5b1f7.png",
+    "static/media/horse.png": "./static/media/horse.8cbcf725000218740897.png",
+    "static/media/boy.png": "./static/media/boy.b5e65bf08c1fd0c732a1.png",
+    "static/media/dog.png": "./static/media/dog.4c0aadfefb352b291ac3.png",
+    "static/media/book.png": "./static/media/book.40fed20b16b4a237a123.png",
+    "static/media/bird.png": "./static/media/bird.358bd82a81a92bbf21b5.png",
+    "static/media/ladkiya.png": "./static/media/ladkiya.9ce34ff1ba96fa5efb38.png",
+    "static/media/snow.png": "./static/media/snow.ddf930aff1c2e6928d56.png",
+    "static/media/star.png": "./static/media/star.27e0fc63fa25ed79c81f.png",
+    "static/media/window.png": "./static/media/window.1592ad72f04767ff58cb.png",
+    "static/media/sky.png": "./static/media/sky.433afee5b7445004f8e0.png",
+    "static/media/pro4.png": "./static/media/pro4.c5e7d5704eb2ee435814.png",
+    "static/media/chidiya.png": "./static/media/chidiya.b0d72bd274eda967f0cb.png",
+    "static/media/kursiya.png": "./static/media/kursiya.a6490d27d8903b095424.png",
+    "static/media/pustake.png": "./static/media/pustake.1b4f7fed888878c10214.png",
+    "static/media/P3.png": "./static/media/P3.730a31b92933093f6d6e.png",
+    "static/media/bachha.png": "./static/media/bachha.3984a0ab61dca97d81d8.png",
+    "static/media/pro3.png": "./static/media/pro3.6823dba941174396ab35.png",
+    "static/media/pro5.png": "./static/media/pro5.73d2700ae3829256f020.png",
+    "index.html": "./index.html",
+    "main.abd8fe01.css.map": "./static/css/main.abd8fe01.css.map",
+    "main.267c89d6.js.map": "./static/js/main.267c89d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd8fe01.css",
+    "static/js/main.267c89d6.js"
+  ]
+}

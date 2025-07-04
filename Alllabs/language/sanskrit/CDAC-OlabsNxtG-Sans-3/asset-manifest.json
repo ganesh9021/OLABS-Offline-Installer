@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.bd4b698b.css",
-    "main.js": "./static/js/main.87dbfa76.js",
+    "main.js": "./static/js/main.0aae1bb5.js",
     "reactPlayerYouTube.js": "./static/js/reactPlayerYouTube.a26a17c3.chunk.js",
     "reactPlayerSoundCloud.js": "./static/js/reactPlayerSoundCloud.e393653a.chunk.js",
     "reactPlayerVimeo.js": "./static/js/reactPlayerVimeo.7ac51065.chunk.js",
@@ -17,7 +17,7 @@
     "reactPlayerFilePlayer.js": "./static/js/reactPlayerFilePlayer.6a435d05.chunk.js",
     "reactPlayerPreview.js": "./static/js/reactPlayerPreview.58385b4f.chunk.js",
     "static/js/787.347a0ea8.chunk.js": "./static/js/787.347a0ea8.chunk.js",
-    "static/media/sarvnaam_shabdroop.webm": "./static/media/sarvnaam_shabdroop.278b10273a84b026170f.webm",
+    "static/media/sarvnaam_shabdroop.webm": "./static/media/sarvnaam_shabdroop.6b709826194d4997bfa7.webm",
     "static/media/8.png": "./static/media/8.ef75fda7efbe5cd09901.png",
     "static/media/picture6.png": "./static/media/picture6.1603544a43958de0b09d.png",
     "static/media/1.png": "./static/media/1.0575f2bc59623348a66a.png",
@@ -49,7 +49,7 @@
     "static/media/info.png": "./static/media/info.e0740b68d0280829eda4.png",
     "index.html": "./index.html",
     "main.bd4b698b.css.map": "./static/css/main.bd4b698b.css.map",
-    "main.87dbfa76.js.map": "./static/js/main.87dbfa76.js.map",
+    "main.0aae1bb5.js.map": "./static/js/main.0aae1bb5.js.map",
     "reactPlayerYouTube.a26a17c3.chunk.js.map": "./static/js/reactPlayerYouTube.a26a17c3.chunk.js.map",
     "reactPlayerSoundCloud.e393653a.chunk.js.map": "./static/js/reactPlayerSoundCloud.e393653a.chunk.js.map",
     "reactPlayerVimeo.7ac51065.chunk.js.map": "./static/js/reactPlayerVimeo.7ac51065.chunk.js.map",
@@ -68,6 +68,6 @@
   },
   "entrypoints": [
     "static/css/main.bd4b698b.css",
-    "static/js/main.87dbfa76.js"
+    "static/js/main.0aae1bb5.js"
   ]
 }

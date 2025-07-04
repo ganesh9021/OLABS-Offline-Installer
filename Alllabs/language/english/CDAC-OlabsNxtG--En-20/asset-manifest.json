@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.9cf65092.css",
-    "main.js": "./static/js/main.dd1640bc.js",
+    "main.css": "./static/css/main.a565ced8.css",
+    "main.js": "./static/js/main.a6e3d3c2.js",
     "reactPlayerYouTube.js": "./static/js/reactPlayerYouTube.dc1c98d5.chunk.js",
     "reactPlayerSoundCloud.js": "./static/js/reactPlayerSoundCloud.b8bfd8f0.chunk.js",
     "reactPlayerVimeo.js": "./static/js/reactPlayerVimeo.dc96daf3.chunk.js",
@@ -17,7 +17,7 @@
     "reactPlayerFilePlayer.js": "./static/js/reactPlayerFilePlayer.33ed9928.chunk.js",
     "reactPlayerPreview.js": "./static/js/reactPlayerPreview.75fc3e40.chunk.js",
     "static/js/787.a2159eb2.chunk.js": "./static/js/787.a2159eb2.chunk.js",
-    "static/media/POS.webm": "./static/media/POS.56fef0121cae2bf47a67.webm",
+    "static/media/POS.mp4": "./static/media/POS.64140a3730793333e33d.mp4",
     "static/media/Pronoun.drawio.png": "./static/media/Pronoun.drawio.1a5b59ad707684486c70.png",
     "static/media/verb.drawio.png": "./static/media/verb.drawio.a66de1f797481db3d2ce.png",
     "static/media/noun.png": "./static/media/noun.ce9f3454f12fad3e4b40.png",
@@ -25,10 +25,13 @@
     "static/media/adverb.drawio.png": "./static/media/adverb.drawio.1b3307a182686eb86014.png",
     "static/media/Types of noun.png": "./static/media/Types of noun.8d649471f7827c9082a0.png",
     "static/media/conjuction.drawio.png": "./static/media/conjuction.drawio.97976b4b7b09ecaa8314.png",
-    "static/media/3.png": "./static/media/3.8f0aaec40f4bb383532a.png",
+    "static/media/5.png": "./static/media/5.8f0c9a025142ff3834ea.png",
+    "static/media/2.png": "./static/media/2.8e9e173a5119add5f239.png",
+    "static/media/4.png": "./static/media/4.65dbafe0986c5cdcadf8.png",
+    "static/media/3.png": "./static/media/3.e5df273fec3dd160f658.png",
     "index.html": "./index.html",
-    "main.9cf65092.css.map": "./static/css/main.9cf65092.css.map",
-    "main.dd1640bc.js.map": "./static/js/main.dd1640bc.js.map",
+    "main.a565ced8.css.map": "./static/css/main.a565ced8.css.map",
+    "main.a6e3d3c2.js.map": "./static/js/main.a6e3d3c2.js.map",
     "reactPlayerYouTube.dc1c98d5.chunk.js.map": "./static/js/reactPlayerYouTube.dc1c98d5.chunk.js.map",
     "reactPlayerSoundCloud.b8bfd8f0.chunk.js.map": "./static/js/reactPlayerSoundCloud.b8bfd8f0.chunk.js.map",
     "reactPlayerVimeo.dc96daf3.chunk.js.map": "./static/js/reactPlayerVimeo.dc96daf3.chunk.js.map",
@@ -46,7 +49,7 @@
     "787.a2159eb2.chunk.js.map": "./static/js/787.a2159eb2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cf65092.css",
-    "static/js/main.dd1640bc.js"
+    "static/css/main.a565ced8.css",
+    "static/js/main.a6e3d3c2.js"
   ]
 }

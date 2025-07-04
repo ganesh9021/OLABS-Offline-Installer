@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.fe07d56b.css",
-    "main.js": "./static/js/main.57d5c349.js",
+    "main.js": "./static/js/main.05ffbadd.js",
     "reactPlayerYouTube.js": "./static/js/reactPlayerYouTube.556f3d2d.chunk.js",
     "reactPlayerSoundCloud.js": "./static/js/reactPlayerSoundCloud.acab0dc0.chunk.js",
     "reactPlayerVimeo.js": "./static/js/reactPlayerVimeo.4dc6c2c5.chunk.js",
@@ -17,7 +17,7 @@
     "reactPlayerFilePlayer.js": "./static/js/reactPlayerFilePlayer.a7cf129d.chunk.js",
     "reactPlayerPreview.js": "./static/js/reactPlayerPreview.6abeefa7.chunk.js",
     "static/js/453.5ee875ea.chunk.js": "./static/js/453.5ee875ea.chunk.js",
-    "static/media/order_event_of_story.webm": "./static/media/order_event_of_story.615fbc8ca4a1440c01b1.webm",
+    "static/media/ordereventsofstory.mp4": "./static/media/ordereventsofstory.01301345c54d73df1b9f.mp4",
     "static/media/game_start_background.mp4": "./static/media/game_start_background.d1eff169ce96914ae9e6.mp4",
     "static/media/video_1.mp4": "./static/media/video_1.2e94d88f9acdef22ea92.mp4",
     "static/media/intro_video.mp4": "./static/media/intro_video.73ef891b3ca757ff4222.mp4",
@@ -83,7 +83,7 @@
     "static/media/Event_arranged.png": "./static/media/Event_arranged.63beedc4f34725763038.png",
     "index.html": "./index.html",
     "main.fe07d56b.css.map": "./static/css/main.fe07d56b.css.map",
-    "main.57d5c349.js.map": "./static/js/main.57d5c349.js.map",
+    "main.05ffbadd.js.map": "./static/js/main.05ffbadd.js.map",
     "reactPlayerYouTube.556f3d2d.chunk.js.map": "./static/js/reactPlayerYouTube.556f3d2d.chunk.js.map",
     "reactPlayerSoundCloud.acab0dc0.chunk.js.map": "./static/js/reactPlayerSoundCloud.acab0dc0.chunk.js.map",
     "reactPlayerVimeo.4dc6c2c5.chunk.js.map": "./static/js/reactPlayerVimeo.4dc6c2c5.chunk.js.map",
@@ -102,6 +102,6 @@
   },
   "entrypoints": [
     "static/css/main.fe07d56b.css",
-    "static/js/main.57d5c349.js"
+    "static/js/main.05ffbadd.js"
   ]
 }

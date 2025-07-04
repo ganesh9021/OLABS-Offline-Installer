@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.1b84b03f.css",
-    "main.js": "./static/js/main.bc475d10.js",
+    "main.js": "./static/js/main.b6f17ab5.js",
     "reactPlayerYouTube.js": "./static/js/reactPlayerYouTube.ac821f75.chunk.js",
     "reactPlayerSoundCloud.js": "./static/js/reactPlayerSoundCloud.f11361c5.chunk.js",
     "reactPlayerVimeo.js": "./static/js/reactPlayerVimeo.7ddd115e.chunk.js",
@@ -17,7 +17,7 @@
     "reactPlayerFilePlayer.js": "./static/js/reactPlayerFilePlayer.fac5d06e.chunk.js",
     "reactPlayerPreview.js": "./static/js/reactPlayerPreview.e2a28f5d.chunk.js",
     "static/js/787.c17cb231.chunk.js": "./static/js/787.c17cb231.chunk.js",
-    "static/media/dhatu_rupani.webm": "./static/media/dhatu_rupani.a09b1078e6b5099c2ca6.webm",
+    "static/media/dhatu_rupani.webm": "./static/media/dhatu_rupani.c2035e687302c0502a01.webm",
     "static/media/8.png": "./static/media/8.ef75fda7efbe5cd09901.png",
     "static/media/picture6.png": "./static/media/picture6.1603544a43958de0b09d.png",
     "static/media/1.png": "./static/media/1.0575f2bc59623348a66a.png",
@@ -44,7 +44,7 @@
     "static/media/info.png": "./static/media/info.e0740b68d0280829eda4.png",
     "index.html": "./index.html",
     "main.1b84b03f.css.map": "./static/css/main.1b84b03f.css.map",
-    "main.bc475d10.js.map": "./static/js/main.bc475d10.js.map",
+    "main.b6f17ab5.js.map": "./static/js/main.b6f17ab5.js.map",
     "reactPlayerYouTube.ac821f75.chunk.js.map": "./static/js/reactPlayerYouTube.ac821f75.chunk.js.map",
     "reactPlayerSoundCloud.f11361c5.chunk.js.map": "./static/js/reactPlayerSoundCloud.f11361c5.chunk.js.map",
     "reactPlayerVimeo.7ddd115e.chunk.js.map": "./static/js/reactPlayerVimeo.7ddd115e.chunk.js.map",
@@ -63,6 +63,6 @@
   },
   "entrypoints": [
     "static/css/main.1b84b03f.css",
-    "static/js/main.bc475d10.js"
+    "static/js/main.b6f17ab5.js"
   ]
 }
