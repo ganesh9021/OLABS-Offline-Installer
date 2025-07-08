@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.d3b01d56.css",
-    "main.js": "./static/js/main.b38b242b.js",
+    "main.js": "./static/js/main.d38d834c.js",
     "reactPlayerYouTube.js": "./static/js/reactPlayerYouTube.9d94461b.chunk.js",
     "reactPlayerSoundCloud.js": "./static/js/reactPlayerSoundCloud.56a0aa6c.chunk.js",
     "reactPlayerVimeo.js": "./static/js/reactPlayerVimeo.418d9893.chunk.js",
@@ -20,13 +20,13 @@
     "static/media/introimg.gif": "./static/media/introimg.aff7948e61dbec0e65d4.gif",
     "static/media/verbform.mp4": "./static/media/verbform.9a725faad06e5484c170.mp4",
     "static/media/verb_form.mp4": "./static/media/verb_form.3a60d13c8b72629a030e.mp4",
-    "static/media/procedure_img2.png": "./static/media/procedure_img2.b4e621c92b78a4a7dae2.png",
-    "static/media/procedure_img3.png": "./static/media/procedure_img3.efdeba31059a30b84a4e.png",
-    "static/media/procedure_img1.png": "./static/media/procedure_img1.4860942346d61753ab18.png",
-    "static/media/procedure_img4.png": "./static/media/procedure_img4.84fff22faae834858502.png",
+    "static/media/procedure_img2.png": "./static/media/procedure_img2.2c35f2e79173476c4bfe.png",
+    "static/media/procedure_img3.png": "./static/media/procedure_img3.8da8baaad82a66c2545f.png",
+    "static/media/procedure_img1.png": "./static/media/procedure_img1.82ecbbeaaef7a2984f4d.png",
+    "static/media/procedure_img4_1.png": "./static/media/procedure_img4_1.cc91c5f793097ec8a31b.png",
     "index.html": "./index.html",
     "main.d3b01d56.css.map": "./static/css/main.d3b01d56.css.map",
-    "main.b38b242b.js.map": "./static/js/main.b38b242b.js.map",
+    "main.d38d834c.js.map": "./static/js/main.d38d834c.js.map",
     "reactPlayerYouTube.9d94461b.chunk.js.map": "./static/js/reactPlayerYouTube.9d94461b.chunk.js.map",
     "reactPlayerSoundCloud.56a0aa6c.chunk.js.map": "./static/js/reactPlayerSoundCloud.56a0aa6c.chunk.js.map",
     "reactPlayerVimeo.418d9893.chunk.js.map": "./static/js/reactPlayerVimeo.418d9893.chunk.js.map",
@@ -45,6 +45,6 @@
   },
   "entrypoints": [
     "static/css/main.d3b01d56.css",
-    "static/js/main.b38b242b.js"
+    "static/js/main.d38d834c.js"
   ]
 }
