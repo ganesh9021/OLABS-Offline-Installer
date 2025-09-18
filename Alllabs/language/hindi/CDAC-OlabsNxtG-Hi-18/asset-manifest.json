@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7a676799.css",
+    "main.js": "./static/js/main.584cbd85.js",
+    "static/media/lab-1.mp4": "./static/media/lab-1.3b2fb353fd1530891fdd.mp4",
+    "static/media/hindi_bg.jpg": "./static/media/hindi_bg.d4c2c5ad60184dcfa2de.jpg",
+    "static/media/conver2.png": "./static/media/conver2.1b094bdca89247d12408.png",
+    "static/media/conver3.png": "./static/media/conver3.2799b53b23e2a0bb216f.png",
+    "static/media/conver1.png": "./static/media/conver1.8da752a8ea41f2fbde65.png",
+    "static/media/Character6.png": "./static/media/Character6.05e41142a85fc34275a4.png",
+    "static/media/Character1.png": "./static/media/Character1.0e5401d4c047ed7d7342.png",
+    "static/media/satish.png": "./static/media/satish.39e060ddbec732fd109b.png",
+    "static/media/character5.png": "./static/media/character5.5ac7dc86cc017e970fcb.png",
+    "static/media/character3.png": "./static/media/character3.9911c3aad7fc665a6bca.png",
+    "static/media/character4.png": "./static/media/character4.0275a7d615c43b8cff77.png",
+    "static/media/chairs.png": "./static/media/chairs.87fb47b5d05842a5e83d.png",
+    "index.html": "./index.html",
+    "main.7a676799.css.map": "./static/css/main.7a676799.css.map",
+    "main.584cbd85.js.map": "./static/js/main.584cbd85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a676799.css",
+    "static/js/main.584cbd85.js"
+  ]
+}

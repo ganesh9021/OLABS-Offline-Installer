@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.77f86442.css",
-    "main.js": "./static/js/main.b7da7ccf.js",
+    "main.css": "./static/css/main.3b4ebe5b.css",
+    "main.js": "./static/js/main.7df2a32b.js",
     "reactPlayerYouTube.js": "./static/js/reactPlayerYouTube.551c06a8.chunk.js",
     "reactPlayerSoundCloud.js": "./static/js/reactPlayerSoundCloud.1489c78d.chunk.js",
     "reactPlayerVimeo.js": "./static/js/reactPlayerVimeo.7080b4e1.chunk.js",
@@ -17,7 +17,7 @@
     "reactPlayerFilePlayer.js": "./static/js/reactPlayerFilePlayer.c2e3cee0.chunk.js",
     "reactPlayerPreview.js": "./static/js/reactPlayerPreview.c49f27cb.chunk.js",
     "static/js/453.4ab09b8a.chunk.js": "./static/js/453.4ab09b8a.chunk.js",
-    "static/media/vakya_anuwad.webm": "./static/media/vakya_anuwad.ff508cd89f714fb6ea9c.webm",
+    "static/media/vakya_anuwad.mp4": "./static/media/vakya_anuwad.48f9a2067ee536af7add.mp4",
     "static/media/8.png": "./static/media/8.ef75fda7efbe5cd09901.png",
     "static/media/picture6.png": "./static/media/picture6.1603544a43958de0b09d.png",
     "static/media/1.png": "./static/media/1.0575f2bc59623348a66a.png",
@@ -27,7 +27,7 @@
     "static/media/10.png": "./static/media/10.0e23c196f32d2f32683e.png",
     "static/media/picture7.png": "./static/media/picture7.14bb4bfa530eea6a10d5.png",
     "static/media/errorimg.jpg": "./static/media/errorimg.e955eb06363e293ccebe.jpg",
-    "static/media/fig1.png": "./static/media/fig1.e5ab9cab1ff7d10301ac.png",
+    "static/media/fig1.png": "./static/media/fig1.a710120df06a7d43cd3c.png",
     "static/media/launcher_icon.png": "./static/media/launcher_icon.5140ef871be114da9adf.png",
     "static/media/6.png": "./static/media/6.5dc3aeb60ba06d014382.png",
     "static/media/5.png": "./static/media/5.8bb8f445d82ed6d5299b.png",
@@ -39,8 +39,8 @@
     "static/media/letter-format.png": "./static/media/letter-format.229d4f39554b630dca07.png",
     "static/media/info.png": "./static/media/info.e0740b68d0280829eda4.png",
     "index.html": "./index.html",
-    "main.77f86442.css.map": "./static/css/main.77f86442.css.map",
-    "main.b7da7ccf.js.map": "./static/js/main.b7da7ccf.js.map",
+    "main.3b4ebe5b.css.map": "./static/css/main.3b4ebe5b.css.map",
+    "main.7df2a32b.js.map": "./static/js/main.7df2a32b.js.map",
     "reactPlayerYouTube.551c06a8.chunk.js.map": "./static/js/reactPlayerYouTube.551c06a8.chunk.js.map",
     "reactPlayerSoundCloud.1489c78d.chunk.js.map": "./static/js/reactPlayerSoundCloud.1489c78d.chunk.js.map",
     "reactPlayerVimeo.7080b4e1.chunk.js.map": "./static/js/reactPlayerVimeo.7080b4e1.chunk.js.map",
@@ -58,7 +58,7 @@
     "453.4ab09b8a.chunk.js.map": "./static/js/453.4ab09b8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77f86442.css",
-    "static/js/main.b7da7ccf.js"
+    "static/css/main.3b4ebe5b.css",
+    "static/js/main.7df2a32b.js"
   ]
 }
