@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.7109e5fc.css",
-    "main.js": "./static/js/main.82e2c320.js",
+    "main.js": "./static/js/main.017ac95f.js",
     "reactPlayerYouTube.js": "./static/js/reactPlayerYouTube.7ca8e122.chunk.js",
     "reactPlayerSoundCloud.js": "./static/js/reactPlayerSoundCloud.d06a24b2.chunk.js",
     "reactPlayerVimeo.js": "./static/js/reactPlayerVimeo.e88bd961.chunk.js",
@@ -17,7 +17,7 @@
     "reactPlayerFilePlayer.js": "./static/js/reactPlayerFilePlayer.1502ea01.chunk.js",
     "reactPlayerPreview.js": "./static/js/reactPlayerPreview.da62dc6c.chunk.js",
     "static/js/453.b1a82856.chunk.js": "./static/js/453.b1a82856.chunk.js",
-    "static/media/punctuationmark.mp4": "./static/media/punctuationmark.ce7fa8e9f0d8f820ca03.mp4",
+    "static/media/typesofphrases.mp4": "./static/media/typesofphrases.8919c6ad7716ecf29685.mp4",
     "static/media/procedure_img6.png": "./static/media/procedure_img6.a4d86bf36a1154aa5c87.png",
     "static/media/procedure_img1.png": "./static/media/procedure_img1.e5ca1ee880141179163e.png",
     "static/media/procedure_img2_2.png": "./static/media/procedure_img2_2.6d50b1d7aa41ed970b97.png",
@@ -29,7 +29,7 @@
     "static/media/procedure_img3_2.png": "./static/media/procedure_img3_2.a1360a2e63932b6b5753.png",
     "index.html": "./index.html",
     "main.7109e5fc.css.map": "./static/css/main.7109e5fc.css.map",
-    "main.82e2c320.js.map": "./static/js/main.82e2c320.js.map",
+    "main.017ac95f.js.map": "./static/js/main.017ac95f.js.map",
     "reactPlayerYouTube.7ca8e122.chunk.js.map": "./static/js/reactPlayerYouTube.7ca8e122.chunk.js.map",
     "reactPlayerSoundCloud.d06a24b2.chunk.js.map": "./static/js/reactPlayerSoundCloud.d06a24b2.chunk.js.map",
     "reactPlayerVimeo.e88bd961.chunk.js.map": "./static/js/reactPlayerVimeo.e88bd961.chunk.js.map",
@@ -48,6 +48,6 @@
   },
   "entrypoints": [
     "static/css/main.7109e5fc.css",
-    "static/js/main.82e2c320.js"
+    "static/js/main.017ac95f.js"
   ]
 }
